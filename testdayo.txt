@@ -4,3 +4,4 @@ komitesu
 ma-zitesu
 com1
 comit2
+add2
